@@ -3,10 +3,10 @@ Hola mi nombre es LUISVILL y me gusta mucho el desarrollo web.  <br>Soy estudian
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Luis%20Villamil) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-villamil-253b48266) 
 
 # 💻 Tech Stack:
-![C](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg) ![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) ![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) ![JavaScript](https://es.wikipedia.org/wiki/JavaScript#/media/Archivo:Unofficial_JavaScript_logo_2.svg) ![GithubPages](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg) ![Express.js](https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/09/nodejs.png?w=512&ssl=1) ![JWT](https://media.licdn.com/dms/image/D4D12AQFIP1Sz-eHRjg/article-cover_image-shrink_720_1280/0/1684876475366?e=1720051200&v=beta&t=EMVINYkjQDfyW7sYzEy4pA5VM1pFjmfCedO8OosOpmk) ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) ![Spring](https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png) ![Postgres](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) ![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg) ![Docker](https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LUISVILL02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LUISVILL02&theme=tokyonight&hide_border=false)<br/>
@@ -19,7 +19,7 @@ Hola mi nombre es LUISVILL y me gusta mucho el desarrollo web.  <br>Soy estudian
 [![](https://visitcount.itsvg.in/api?id=LUISVILL02&icon=5&color=11)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Luisvill) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=YHFFFZ275KVZC) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
