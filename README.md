@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola mi nombre es LUISVILL y me gusta mucho el desarrollo web.  <br>Soy estudiante de ingeniería de sistemas.<br>Me gusta trabajar en equipo porque dos cabezas piensan mejor que una.<br>
+Hola mi nombre es LUISVILL y me gusta mucho el desarrollo web.  <br>Soy estudiante de ingeniería de sistemas, enfocado tanto en Backend como Frontend.<br>Disfruto trabajar en entornos colaborativos, aplicando metodologías ágiles para lograr objetivos de manera rápida y efectiva. Siempre estoy en busca de nuevos retos que me permitan crecer y aportar valor al equipo..<br>
 
 
 ## 🌐 Socials:
